@@ -18,11 +18,11 @@
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
 
-<p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p>
+<p align="center">EpsilonCoder</p>
 
 ##
 
-<h3><p align="center">Disclaimer</p></h3>
+<h3><p align="center">Avertissement</p></h3>
 
 <i>Toutes les actions et/ou activités liées à Zphisher relèvent de votre seule responsabilité. L'utilisation abusive de cette boîte à outils peut entraîner des poursuites pénales contre les personnes en question. Les contributeurs ne seront pas tenus responsables en cas d'accusations pénales portées contre des individus utilisant abusivement cette boîte à outils pour enfreindre la loi.
 
