@@ -24,13 +24,13 @@
 
 <h3><p align="center">Disclaimer</p></h3>
 
-<i>Any actions and or activities related to <b>Zphisher</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+<i>Toutes les actions et/ou activités liées à Zphisher relèvent de votre seule responsabilité. L'utilisation abusive de cette boîte à outils peut entraîner des poursuites pénales contre les personnes en question. Les contributeurs ne seront pas tenus responsables en cas d'accusations pénales portées contre des individus utilisant abusivement cette boîte à outils pour enfreindre la loi.
 
-<b>This toolkit contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
+Cette boîte à outils contient des éléments qui peuvent être potentiellement dommageables ou dangereux pour les médias sociaux. Reportez-vous aux lois de votre province/pays avant d'accéder, d'utiliser ou de toute autre manière d'utiliser ceci de manière incorrecte.
 
-<b>This Tool is made for educational purposes only</b>. Do not attempt to violate the law with anything contained here. <b>If this is your intention, then Get the hell out of here</b>!
+Cet outil est conçu à des fins éducatives uniquement. N'essayez pas d'enfreindre la loi avec quoi que ce soit contenu ici. Si telle est votre intention, alors foutez le camp d'ici !
 
-It only demonstrates "how phishing works". <b>You shall not misuse the information to gain unauthorized access to someones social media</b>. However you may try out this at your own risk.</i>
+Il ne fait que montrer "comment fonctionne le phishing". Vous ne devez pas utiliser les informations à mauvais escient pour obtenir un accès non autorisé aux médias sociaux de quelqu'un. Cependant, vous pouvez essayer cela à vos risques et périls..</i>
 
 ##
 
